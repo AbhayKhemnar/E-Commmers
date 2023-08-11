@@ -1,0 +1,19 @@
+.HeaderContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    background-color: darkslategrey;
+    align-items: center;
+}
+.HeaderContainer a{
+    color: white;
+    font-size: 1.5rem;
+    text-decoration: none;
+
+}
+
+.navbar{
+    display: flex;
+    gap:20px;
+    align-items: center;
+}
